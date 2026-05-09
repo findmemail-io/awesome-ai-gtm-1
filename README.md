@@ -123,7 +123,7 @@ The critical bridge between marketing awareness and revenue generation. This sta
 - [Artisan](https://www.artisan.co/) - End-to-end outreach with 300M+ B2B contacts and AI ghostwriting
 - [Breeze Prospecting Agent](https://breeze.ai/) - AI agent for automated lead prospecting and qualification
 - [Clay](https://clay.com/) - Automated prospecting with 50+ data sources and "claygents"
-- [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform
+- [Cognism](https://www.cognism.com/) - AI-powered B2B data and sales intelligence platform- [findmemail.io](https://findmemail.io/) - Plain-English ICP search ("VPs of growth at Series A SaaS") with SMTP-verified founder/decision-maker emails. 32k+ companies, $200 lifetime tier.
 - [Seamless.ai](https://seamless.ai/) - Real-time B2B lead search with 1.8B+ emails and buyer intent signals
 
 ### Email & Multi-Channel Outreach
